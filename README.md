@@ -12,3 +12,8 @@ Found as Davidson_Assignment2.ipynb
 ### Assignment 3
 Assignment 3
 Found as Davidson_Assignment3.ipynb
+
+### Assignment 4
+Assignment 4
+Found as Davidson_Assignment3.ipynb
+Shows several different types of graphs plotted using the seaborn libray
