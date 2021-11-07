@@ -15,6 +15,12 @@ Found as Davidson_Assignment3.ipynb
 
 ### Assignment 4
 Assignment 4
-Found as Davidson_Assignment3.ipynb
+Found as Davidson_Assignment4.ipynb
 
 Shows several different types of graphs plotted using the seaborn libray
+
+### Assignment 5
+Assignment 5
+Found as Davidson_Assignment5.ipynb
+
+Shows merging of two data sets and handling of missing values
