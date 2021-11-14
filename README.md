@@ -24,3 +24,9 @@ Assignment 5
 Found as Davidson_Assignment5.ipynb
 
 Shows merging of two data sets and handling of missing values
+
+### Assignment 6
+Assignment 6
+Found as Davidson_Assignment6.ipynb
+
+Shows how to change the dtype of a column to a category and to a string
