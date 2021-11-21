@@ -30,3 +30,7 @@ Assignment 6
 Found as Davidson_Assignment6.ipynb
 
 Shows how to change the dtype of a column to a category and to a string
+
+### Assignment 7
+Assignment 7
+Found as Davidson_Assignment6.ipynb
