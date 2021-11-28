@@ -33,4 +33,8 @@ Shows how to change the dtype of a column to a category and to a string
 
 ### Assignment 7
 Assignment 7
-Found as Davidson_Assignment6.ipynb
+Found as Davidson_Assignment7.ipynb
+
+### Assignment 8
+Assignment 8
+Found as Davidson_Assignment8.ipynb
